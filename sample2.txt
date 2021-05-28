@@ -1,0 +1,2 @@
+001001101010001010010100
+My attempt of binary numbers
